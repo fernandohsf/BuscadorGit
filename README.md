@@ -1,5 +1,5 @@
 # Projeto buscador de usuário com API do GitHub
-Utilizar a API do GitHub para buscar usuários, seus repositóros públicos (limitados a 10) e seu últimos eventos de push e create (limitados a 10) com um layout minimalista, reponsivo e funcional
+Utilizar a API do GitHub para buscar usuários, seus repositóros públicos (limitados a 10) e seu últimos eventos de push e create (limitados a 10) com um layout minimalista, responsivo e funcional
 
 A tela inicial utiliza apenas o nome do usuário para buscar as informações.
 ![image](https://github.com/fernandohsf/BuscadorGit/assets/17659168/81f71f34-21ab-48f1-8399-4da3aabf2e39)
