@@ -115,6 +115,10 @@ main {
   font-weight: 700;
 }
 
+.container .profile-data .info .data .followers{
+  font-weight: 900;
+}
+
 .container .profile-data .info p{
   font-size: 15px;  
   font-weight: 400;
